@@ -4,7 +4,7 @@ Here I will guide you step by step to make your own slack bot.
 
 
 * [Getting Started](#getting-started)
-* [Get your bot ID](#bot_id)
+* [Get your bot ID](#Bot_Id)
 * [Code your idea](#write_code)
 
 
