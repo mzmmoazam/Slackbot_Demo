@@ -4,7 +4,7 @@ Here I will guide you step by step to make your own slack bot.
 
 
 * [Getting Started](#getting-started)
-* [Get your bot ID](#Bot-Id)
+* [Get your bot ID](#bot-id)
 * [Code your idea](#write-code)
 
 
@@ -42,8 +42,10 @@ pip install slackclient
 ```
 
 Now, when you have installed slackclient, we can proceed to our next step that is getting the ** BOT ID **.
+
 ---
-## Bot Id
+
+## bot id
 
 You need to go to your IDE and this code this code over there and execute it.
 ```python
